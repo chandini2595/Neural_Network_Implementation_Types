@@ -9,3 +9,6 @@
 7. Tensorflow with Builtin Layers: https://colab.research.google.com/drive/1pBRtwAJnWhxd2ssVeZWPXK2IfCuUGGde?usp=sharing
 8. Functional API High level API of Tensorflow: https://colab.research.google.com/drive/1VZIilNn08Bz6kQUSQHRSnYuPunQMWns9?usp=sharing
 9. Tensorflow high level API: https://colab.research.google.com/drive/1mpv_35cQN7vJozDF7gw_RbbsncZKfRip?usp=sharing
+
+
+Youtube: https://youtu.be/GGvia70juKo
